@@ -10,7 +10,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Discord
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/888252065212682240?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/888252065212682240)
+[![Discord Presence](https://lanyard.cnrad.dev/api/888252065212682240)](https://discord.com/users/888252065212682240)
 
 ### Tools
 
