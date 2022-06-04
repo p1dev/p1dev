@@ -6,6 +6,7 @@
 ![p1dev's github stats](https://github-readme-stats.vercel.app/api?username=p1dev&show_icons=true&title_color=fff&icon_color=018eff&text_color=ECECEC&bg_color=000000)
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+<img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png" height="100">
 
 ### Tools
 
