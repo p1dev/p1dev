@@ -13,6 +13,3 @@
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
-### Mi Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/888252065212682240)](https://discord.com/users/888252065212682240)
